@@ -23,6 +23,6 @@
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }],
 
-    "jsx": "react-jsx" // Or "react-jsxdev" for development mode
+
 }
 
