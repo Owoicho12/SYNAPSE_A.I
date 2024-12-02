@@ -25,12 +25,12 @@ export const Navbar = () => {
 
   const downloadWhitepaper = () => {
     // Replace with actual whitepaper URL
-    window.open('/whitepaper.pdf', 'https://app-synapseai.netlify.app/whitepaper.pdf');
+    window.open('/whitepaper.pdf', '_blank');
   };
 
   const downloadTokenomics = () => {
     // Replace with actual tokenomics URL
-    window.open('/tokenomics.pdf', 'https://app-synapseai.netlify.app/tokenomics.pdf');
+    window.open('/tokenomics.pdf', '_blank');
   };
 
   return (
