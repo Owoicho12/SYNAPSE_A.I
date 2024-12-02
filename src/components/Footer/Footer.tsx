@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { FaTwitter, FaDiscord, FaMedium, FaTelegram } from 'react-icons/fa';
 

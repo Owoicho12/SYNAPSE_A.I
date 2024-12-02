@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from 'react';
+
 import { motion } from 'framer-motion';
 import { Link } from 'react-scroll';
 import { FaBars, FaTimes } from 'react-icons/fa';
+import {useEffect, useState} from "react";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
