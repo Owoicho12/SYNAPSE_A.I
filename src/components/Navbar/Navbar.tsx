@@ -32,7 +32,6 @@ export const Navbar = () => {
     // Replace with actual tokenomics URL
     window.open('/tokenomics.pdf', '_blank');
   };
-
   return (
     <motion.nav
       initial={{ y: -100 }}
