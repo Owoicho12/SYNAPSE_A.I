@@ -24,12 +24,12 @@ export const Navbar = () => {
 
   const downloadWhitepaper = () => {
     // Replace with actual whitepaper URL
-    window.open('/Whitepaper.pdf', '_blank');
+    window.open('https://magenta-anxious-llama-979.mypinata.cloud/ipfs/QmauhYPsjFk9yi74oqmHx1hVUhvj2JhEJCD3gBHBMGjLbg', '_blank');
   };
 
   const downloadTokenomics = () => {
     // Replace with actual tokenomics URL
-    window.open('/Tokenomics.pdf', '_blank');
+    window.open('https://magenta-anxious-llama-979.mypinata.cloud/ipfs/QmSZFBuSfKpE6fFzkKVfdHVBnERn52xPcPmNqWUMNzJjtj', '_blank');
   };
   return (
     <motion.nav
