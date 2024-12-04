@@ -24,12 +24,12 @@ export const Navbar = () => {
 
   const downloadWhitepaper = () => {
     // Replace with actual whitepaper URL
-    window.open('/whitepaper.pdf', '_blank');
+    window.open('/Whitepaper.pdf', '_blank');
   };
 
   const downloadTokenomics = () => {
     // Replace with actual tokenomics URL
-    window.open('/tokenomics.pdf', '_blank');
+    window.open('/Tokenomics.pdf', '_blank');
   };
   return (
     <motion.nav
